@@ -4,7 +4,7 @@
 int get_1to8(string prompt);
 void build_pyramid(int n);
 
-\\ Driver function, asks for integer input, displays "Mario-style" pyramid of correct dimensions
+// Driver function, asks for integer input, displays "Mario-style" pyramid of correct dimensions
 int main(void)
 {
     int height = get_1to8("Height: ");
